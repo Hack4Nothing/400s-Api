@@ -1,0 +1,23 @@
+{
+  "name": "400s-api",
+  "version": "1.0.0",
+  "description": "API framework",
+  "keywords": [
+    "API"
+  ],
+  "homepage": "https://github.com/Hack4Nothing/400s-Api#readme",
+  "bugs": {
+    "url": "https://github.com/Hack4Nothing/400s-Api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hack4Nothing/400s-Api.git"
+  },
+  "license": "GPL-3.0",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
